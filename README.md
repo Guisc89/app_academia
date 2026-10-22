@@ -1,4 +1,4 @@
-# academia-app
+# app_academia
 aplicativo web para mapear, acompanhar progresso e conectar casais a vida fitness de forma divertida e descontraída.
 
 <div align="center">
