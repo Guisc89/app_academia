@@ -167,12 +167,3 @@ Dados e imagens de exercícios: [wger.de](https://wger.de) (licença aberta, cr�
 *Larga o celular frango. Abre o app. 🐔💪*
 
 </div>
-
-## 📄 Direitos
-
-© 2026 Gui — Todos os direitos reservados.
-
-Este repositório contém apenas documentação e link de demonstração do
-Nosso Treino. O código-fonte, a identidade visual e as marcas são
-proprietários e não estão licenciados para uso, reprodução ou
-comercialização por terceiros sem autorização prévia por escrito.
