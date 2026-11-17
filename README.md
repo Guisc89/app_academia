@@ -87,15 +87,9 @@ e quando a preguiça aparecer do lado de lá, mande um:
 
 ## 📸 O app por dentro
 
-| Início | Treinos | Sessão ao vivo |
+| Início | Treinos | Calendário |
 |:---:|:---:|:---:|
-| [COLOQUE: screenshots/inicio.png] | [COLOQUE: screenshots/treinos.png] | [COLOQUE: screenshots/sessao.png] |
-
-| Progresso do casal | Calendário | Alerta do frango |
-|:---:|:---:|:---:|
-| [COLOQUE: screenshots/casal.png] | [COLOQUE: screenshots/calendario.png] | [COLOQUE: screenshots/frango.png] |
-
----
+| <img width="403" height="880" alt="unnamed (2)" src="https://github.com/user-attachments/assets/38ffc2b9-3aa8-43ee-b914-07f95d96d2fc" /> | <img width="326" height="710" alt="unnamed" src="https://github.com/user-attachments/assets/b2cda539-385f-4d4f-8a6d-309611875e5c" /> | <img width="405" height="878" alt="unnamed (1)" src="https://github.com/user-attachments/assets/f8c35658-92b3-402c-91c2-7e059c98372a" /> |
 
 ## ❓ Perguntas rápidas
 
